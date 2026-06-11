@@ -160,6 +160,10 @@ fractalCreator.run("output.bmp");
 
 ---
 
+## 🖼️ Output Example
+
+![Mandelbrot fractal](output.png)
+
 ## 📄 License
 
 This project was created for educational purposes.
